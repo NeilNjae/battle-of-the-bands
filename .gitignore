@@ -46,3 +46,6 @@ nosetests.xml
 
 # Secrets
 secrets.ini
+
+# Lexicons
+NRC-Sentiment-Emotion-Lexicons/
