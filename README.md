@@ -32,7 +32,7 @@ All the data comes from publicly-accessible sources, generally via APIs. You'll 
 
 Note that the NRC sentiment lexicon isn't available for download, but you'll have to email the creator. 
 
-You can obtain a cache of what I gathered in the `data` directory of this repo. Use `mongorestore` to recover the data. 
+You can obtain a cache of what I gathered in the `dump` directory of this repo. Use `mongorestore` to recover the data. 
 
 ## Use
 
