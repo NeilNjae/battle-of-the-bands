@@ -20,7 +20,7 @@ There are quite a few tools used in the preparation of this data. They are:
 * [MongoDB](https://www.mongodb.com/) and [PyMongo](https://api.mongodb.com/python/current/) for data persistence
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for parsing HTML
 
-(You may want to install [Anaconda] to get most of these in one bundle.)
+(You may want to install [Anaconda](https://anaconda.org/) to get most of these in one bundle.)
 
 ## Data sources
 
